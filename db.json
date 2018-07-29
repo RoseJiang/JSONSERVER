@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Herry",
+      "phone": "333-444-555",
+      "email": "herry@gmail.com",
+      "id": 1,
+      "age": 35,
+      "balance": 14566
+    },
+    {
+      "name": "Bucky",
+      "phone": "333-444-555",
+      "email": "bucky@gmail.com",
+      "id": 2,
+      "age": 33,
+      "balance": 100
+    }
+  ]
+}
